@@ -5,7 +5,7 @@
 
 Term: Fall 2021
 
-+ Team ##
++ Team Group7
 + Team members
 	+ Jing Lu (jl5886)
 	+ Yuming Tu(yt2748)
