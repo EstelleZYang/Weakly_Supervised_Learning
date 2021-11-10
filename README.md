@@ -7,11 +7,11 @@ Term: Fall 2021
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Jing Lu (jl5886)
+	+ Yuming Tu(yt2748)
+	+ Wang, Ziyi (zw2732)
+	+ Zhang, Zhuohan (zz2751)
+	+ Zhao, Yang (yz4115)
 
 + Project summary: In this project, we created ...
 	
